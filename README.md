@@ -5,6 +5,8 @@
 我喜欢把想法快速做成可以运行的小项目。  
 目前主要关注 AI 辅助编程、全栈 MVP、信息摘要系统、数据标注工具、本地 AI 工具，以及物联网 / AIoT / 机器人方向。
 
+我的项目通常会尽量做到：能跑起来、能演示、能写清楚文档、能部署或复刻，并在完成后继续复盘改进。
+
 I build small but useful AI tools, one project at a time.
 
 ## 🚀 What I'm building
@@ -88,7 +90,7 @@ Robotics / embodied intelligence applications
 
 - 用 AI 辅助编程，但不把 AI 当作替代思考的工具
 - 先做能跑起来的 MVP，再逐步优化体验和工程结构
-- 每个项目都尽量留下 README、截图、启动方式和复盘记录
+- 每个项目都尽量留下 README、截图、启动方式、Docker 支持和复盘记录
 - 比起收藏教程，我更相信“做一个能展示的小项目”
 
 Build first, review carefully, improve step by step.
