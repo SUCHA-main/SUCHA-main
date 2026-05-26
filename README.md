@@ -8,5 +8,5 @@ Build first, review carefully, improve step by step.
 
 ## 📫 Links
 
-- GitHub: https://github.com/SUCHA-main
+- GitHub::/SUCHA-main.github.io
 - Blog / Portfolio: coming soon
