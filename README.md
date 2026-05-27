@@ -3,6 +3,4 @@
 我喜欢把想法快速做成可以运行的小项目
 
 ## 📫 Links
-
-- GitHub::/SUCHA-main.github.io
 - Blog / Portfolio: coming soon
