@@ -13,4 +13,4 @@
 
 ---
 
-<sub>更多实验和阶段性作品放在 [Repositories](https://github.com/SUCHA-main?tab=repositories) 中。这里不追求项目数量，只保留值得继续打磨的东西。</sub>
+<sub>实验放在 [Repositories](https://github.com/SUCHA-main?tab=repositories) 中。
