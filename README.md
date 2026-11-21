@@ -19,12 +19,6 @@
 
 第一篇项目复盘：[AI WeChat Digest MVP：从 RSS 到每日晚报](https://luanhua-site.vercel.app/notes/ai-wechat-digest-rss-to-daily-digest)
 
-## Now / Next
-
-当前阶段主要在整理已有公开仓库，让项目说明、数据边界、检查结果和个人网站保持一致。
-
-下一步会继续补充自动化测试与 CI 经验，并尝试低成本、可复刻的 ESP32 / MQTT 小项目。
-
 ## Contact
 
 项目相关问题可以通过对应仓库的 [GitHub Issues](https://github.com/SUCHA-main?tab=repositories) 联系。
