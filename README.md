@@ -4,14 +4,7 @@
 
 [个人网站](https://luanhua-site.vercel.app) · [技术笔记](https://luanhua-site.vercel.app/notes) · [GitHub 项目](https://github.com/SUCHA-main?tab=repositories)
 
-## Current Focus
 
-- **AI 应用**：RSS 摘要、Mock-first 工作流、本地模型和 Provider 接入。
-- **全栈开发**：用 React、Astro、Node.js、Go 和 SQLite 完成小型 MVP。
-- **DevOps**：通过 Docker、CI/CD 与本地监控实验理解交付流程。
-- **AIoT**：准备从 ESP32、MQTT、传感器和 Web Dashboard 开始实践。
-
-我的学习方式是先做出最小可运行版本，再补充安全边界、README、构建检查和项目复盘。
 
 ## Selected Projects
 
